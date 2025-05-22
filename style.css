@@ -1,0 +1,36 @@
+body{
+    background-color: #aef5fc;
+}
+hr{
+    background-color: black;
+    height: 2px;
+    border: 0px;
+}
+
+h1{
+    font-family:"Merriweather";
+}
+
+p{
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+li{
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+mark{
+    background-color: #7aeb8b;
+}
+
+#broken{
+    background-color: black;
+    height: 3px;
+    border: 0px;
+}
+.time {
+    background-color: #c98ade;
+}
+.days{
+    text-align: center;
+}
