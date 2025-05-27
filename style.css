@@ -29,8 +29,21 @@ mark{
     border: 0px;
 }
 .time {
-    background-color: #c98ade;
+    background-color: #c1b9f0;
 }
 .days{
     text-align: center;
 }
+.dailynote {
+    background-color: #c98ade;
+}
+.DOMprac {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.DOMprac > button {
+    width: 150px;
+    margin: 10px;
+}
+
