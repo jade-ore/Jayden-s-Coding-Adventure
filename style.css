@@ -2,9 +2,9 @@ body{
     background-color: #aef5fc;
 }
 hr{
-    background-color: black;
-    height: 1px;
-    border: 0px;
+
+
+    border: thin solid #000000;
 }
 
 h1{
